@@ -1,4 +1,9 @@
-## Hi there 👋
+<h3>Hi there👋, I'm Swastika Thapa</h3>
+
+<h4>QA Enthusiast| Aspiring Tester|Recent Intern</h4>
+
+I work as a Quality Assurance, with hands-on experience in both manual and automation testing for websites, mobile apps, and APIs. I recently completed a 12-week internship at <b>Fonepay Payment Service Ltd., where I gained practical experience in these areas. I am focused on continuous learning and contribute to the field.
+
 
 <!--
 **swosti01/swosti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
