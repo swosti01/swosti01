@@ -1,6 +1,6 @@
 <h3>Hi there👋, I'm Swastika Thapa</h3>
 
-<b>QA Enthusiast| Aspiring Tester|Recent Intern</b>
+<b>QA Enthusiast| Aspiring Tester| Recent Intern</b>
 
 I work as a Quality Assurance, with hands-on experience in both manual and automation testing for websites, mobile apps, and APIs. I recently completed an internship at <b>Fonepay Payment Service Ltd.</b>, where I gained practical experience in these areas. I am focused on continuous learning and contribute to the field.
 
@@ -9,8 +9,8 @@ I work as a Quality Assurance, with hands-on experience in both manual and autom
 - 🔭 I’m currently working on [WebFramework](https://github.com/swosti01/WebFramework) to automate Web Applications.
 - 🌱 I’m currently learning Data-Driven Automation.
 - 👯 I’m looking to collaborate on projects that involve API testing and UI automation, using tools like Robot Framework and Selenium.
-- 💬 Ask me about Selenium, Postman, Robot Framework, and exploratory testing.
-- ⚡ Fun fact I enjoy automation testing, especially UI automation.
+- 💬 Ask me about Selenium, Postman, Robot Framework, and Exploratory Testing.
+- ⚡ Fun fact, I enjoy automation testing, especially UI automation.
 
 <h4> 🤳 Connect with me:</h4>
 
