@@ -1,34 +1,18 @@
 <h3>Hi there👋, I'm Swastika Thapa</h3>
 
-<h4>QA Enthusiast| Aspiring Tester|Recent Intern</h4>
+<b>QA Enthusiast| Aspiring Tester|Recent Intern</b>
 
-I work as a Quality Assurance, with hands-on experience in both manual and automation testing for websites, mobile apps, and APIs. I recently completed a 12-week internship at <b>Fonepay Payment Service Ltd.</b>, where I gained practical experience in these areas. I am focused on continuous learning and contribute to the field.
+I work as a Quality Assurance, with hands-on experience in both manual and automation testing for websites, mobile apps, and APIs. I recently completed an internship at <b>Fonepay Payment Service Ltd.</b>, where I gained practical experience in these areas. I am focused on continuous learning and contribute to the field.
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<b>Skills: Selenium, Postman, Robot Framework, and Exploratory Testing, JavaScript, Git, Python,</b>
 
-<h2>📺 Popular YouTube Videos</h2>
+- 🔭 I’m currently working on [WebFramework](https://github.com/swosti01/WebFramework) to automate Web Applications.
+- 🌱 I’m currently learning Data-Driven Automation.
+- 👯 I’m looking to collaborate on projects that involve API testing and UI automation, using tools like Robot Framework and Selenium.
+- 💬 Ask me about Selenium, Postman, Robot Framework, and exploratory testing.
+- ⚡ Fun fact I enjoy automation testing, especially UI automation.
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
-<h2> 🤳 Connect with me:</h2>
+<h4> 🤳 Connect with me:</h4>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -38,18 +22,3 @@ I work as a Quality Assurance, with hands-on experience in both manual and autom
 [instagram]: https://www.instagram.com/swomgr_21/
 [linkedin]: https://www.linkedin.com/in/swostika-magar-49a168268/
 
-
-<!--
-**swosti01/swosti01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
